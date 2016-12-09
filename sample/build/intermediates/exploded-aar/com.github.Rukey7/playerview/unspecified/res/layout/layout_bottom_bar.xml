@@ -47,7 +47,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:background="@drawable/sel_item_background"
             android:padding="10dp"
             android:src="@drawable/sel_btn_play"/>
 
@@ -104,7 +103,7 @@
             android:background="@drawable/shape_send_danmaku_bg"
             android:gravity="center"
             android:padding="7dp"
-            android:text="发射弹幕"
+            android:text="弹幕"
             android:textColor="@android:color/white"
             android:textSize="16sp"
             android:visibility="gone"/>
@@ -116,7 +115,6 @@
             android:layout_gravity="center"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="3dp"
-            android:background="@drawable/sel_item_background"
             android:padding="5dp"
             android:src="@drawable/sel_btn_danmaku_control"
             android:visibility="gone"/>
@@ -128,7 +126,6 @@
             android:layout_gravity="center"
             android:layout_marginLeft="3dp"
             android:layout_marginRight="5dp"
-            android:background="@drawable/sel_item_background"
             android:drawablePadding="2dp"
             android:drawableTop="@mipmap/ic_media_quality_smooth"
             android:gravity="center"
@@ -144,7 +141,6 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginRight="5dp"
-            android:background="@drawable/sel_item_background"
             android:padding="5dp"
             android:src="@drawable/sel_btn_fullscreen"/>
     </LinearLayout>

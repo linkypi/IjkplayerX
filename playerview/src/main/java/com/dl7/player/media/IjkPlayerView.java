@@ -154,9 +154,25 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
     private RadioGroup mAspectRatioOptions;
     // 关联的Activity
     private AppCompatActivity mAttachActivity;
+    // 分享
+    private LinearLayout mLayoutShare;
 
     private ImageView mIvCollect;
     private ImageView mIvShare;
+
+    public void setOnCollectListener(OnCollectListener onCollectListener) {
+        this.onCollectListener = onCollectListener;
+    }
+
+    private OnCollectListener onCollectListener;
+    private boolean hasCollect;
+    public void setHasCollect(boolean hasCollect) {
+        this.hasCollect = hasCollect;
+    }
+
+    public interface OnCollectListener{
+        void onCollect(boolean collected);
+    }
 
     private Handler mHandler = new Handler() {
         @Override
@@ -265,6 +281,8 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
         mIvPlayCircle = (ImageView) findViewById(R.id.iv_play_circle);
         mTvRecoverScreen = (TextView) findViewById(R.id.tv_recover_screen);
 
+        //分享 收藏
+        mLayoutShare = (LinearLayout)findViewById(R.id.layout_share);
         mIvShare = (ImageView)findViewById(R.id.iv_share);
         mIvCollect = (ImageView)findViewById(R.id.iv_collect);
         // 视频宽高比设置
@@ -657,6 +675,7 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
         _showAspectRatioOptions(false);
         if (!isTouchLock) {
             mIvPlayerLock.setVisibility(View.GONE);
+            mLayoutShare.setVisibility(View.GONE);
             mIsShowBar = false;
         }
         if (mIsEnableDanmaku) {
@@ -677,6 +696,7 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
             mIvPlayCircle.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
         } else if (mIsForbidTouch) {
             mIvPlayerLock.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
+            mLayoutShare.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
         } else {
             mLlBottomBar.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
             if (!isShowBar) {
@@ -689,6 +709,7 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
                 mFullscreenTopBar.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
                 mWindowTopBar.setVisibility(View.GONE);
                 mIvPlayerLock.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
+                mLayoutShare.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
                 if (mIsEnableDanmaku) {
                     mDanmakuPlayerSeek.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
                 }
@@ -699,6 +720,7 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
                 mWindowTopBar.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
                 mFullscreenTopBar.setVisibility(View.GONE);
                 mIvPlayerLock.setVisibility(View.GONE);
+                mLayoutShare.setVisibility(View.GONE);
                 if (mIsEnableDanmaku) {
                     mDanmakuPlayerSeek.setVisibility(GONE);
                 }
@@ -869,7 +891,11 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
         } else if (id == R.id.tv_settings) {
             _showAspectRatioOptions(true);
         }else if(id==R.id.iv_collect){
-
+          if(onCollectListener!=null)
+          {
+              if(hasCollect) mIvShare.setImageResource(R.mipmap.ic_uncollect);
+              else  mIvShare.setImageResource(R.mipmap.ic_has_collect);
+              onCollectListener.onCollect(!hasCollect);}
         }else if(id == R.id.iv_share){
 
         }
@@ -1510,7 +1536,7 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
                 // 更新进度
                 mHandler.sendEmptyMessage(MSG_UPDATE_SEEK);
                 if (mSkipPosition != INVALID_VALUE) {
-                    _showSkipTip(); // 显示跳转提示
+                    //_showSkipTip(); // 显示跳转提示
                 }
                 if (mVideoView.isPlaying()) {
                     _resumeDanmaku();   // 开启弹幕

@@ -65,6 +65,40 @@
         android:layout_gravity="center"
         android:layout_width="56dp"
         android:layout_height="56dp"/>
+    <LinearLayout
+        android:id="@+id/layout_share"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:background="@null"
+        android:weightSum="1"
+        android:visibility="visible"
+        android:layout_height="50dp">
+
+        <ImageView
+            android:id="@+id/share_weixin"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:background="@mipmap/ic_weixin"
+            android:layout_width="30dp"
+            android:layout_height="30dp" />
+        <ImageView
+            android:id="@+id/share_qq"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:background="@mipmap/ic_qq"
+            android:layout_width="30dp"
+            android:layout_height="30dp" />
+        <ImageView
+            android:id="@+id/share_sina"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:background="@mipmap/ic_sina"
+            android:layout_width="30dp"
+            android:layout_height="30dp" />
+    </LinearLayout>
 
     <include layout="@layout/layout_media_quality"/>
 

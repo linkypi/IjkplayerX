@@ -54,9 +54,24 @@
             android:id="@+id/iv_screenshot"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/sel_item_background"
+
             android:padding="10dp"
             android:src="@mipmap/ic_video_screenshot"/>
+        <!--收藏-->
+        <ImageView
+            android:id="@+id/iv_collect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:padding="10dp"
+            android:src="@mipmap/ic_uncollect"/>
+        <!--分享-->
+        <ImageView
+            android:id="@+id/iv_share"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:src="@mipmap/ic_share"/>
 
         <TextView
             android:id="@+id/tv_settings"
@@ -64,7 +79,7 @@
             android:layout_height="wrap_content"
             android:paddingTop="10dp"
             android:paddingBottom="10dp"
-            android:background="@drawable/sel_item_background"
+
             android:text="设置"
             android:layout_marginRight="10dp"
             android:gravity="center"
@@ -83,9 +98,9 @@
             android:id="@+id/iv_back_window"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/sel_item_background"
+
             android:padding="10dp"
-            android:src="@mipmap/ic_return_back"/>
+            android:src="@mipmap/ic_back"/>
     </FrameLayout>
 
     <RadioGroup
