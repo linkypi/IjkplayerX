@@ -21,6 +21,7 @@ import android.annotation.TargetApi;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Matrix;
+import android.graphics.PixelFormat;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.net.Uri;
@@ -347,6 +348,8 @@ public class IjkVideoView extends FrameLayout implements MediaController.MediaPl
             }
             case RENDER_SURFACE_VIEW: {
                 SurfaceRenderView renderView = new SurfaceRenderView(getContext());
+//                renderView.setZOrderOnTop(true);//设置画布  背景透明
+//                renderView.getHolder().setFormat(PixelFormat.);
                 setRenderView(renderView);
                 break;
             }

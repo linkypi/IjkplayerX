@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\bg_card.9.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\src\\main\\res\\mipmap-xxhdpi\\bg_card.9.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\bg_card.9.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\src\\main\\res\\mipmap-xxhdpi\\bg_card.9.png"
     }
 ]

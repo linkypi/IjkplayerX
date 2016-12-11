@@ -19,13 +19,14 @@
         android:text="还原屏幕"
         android:textColor="@color/recover_screen_text"/>
 
+    <!--android:background="@color/bg_video_view"-->
     <SeekBar
         android:id="@+id/danmaku_player_seek"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"
         android:layout_marginBottom="@dimen/control_bar_height"
-        android:background="@color/bg_video_view"
+
         android:maxHeight="4dp"
         android:minHeight="4dp"
         android:paddingLeft="10dp"

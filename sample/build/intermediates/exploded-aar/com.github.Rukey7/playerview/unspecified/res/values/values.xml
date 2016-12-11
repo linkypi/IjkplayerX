@@ -9,16 +9,18 @@
     </string-array>
     <color name="background_gray">#ffa5a5a5</color>
     <color name="background_gray_light">#ffbababa</color>
+    <color name="bar_mask_layer">#37000000</color>
     <color name="bg_video_view">#80000000</color>
-    <color name="media_quality_selected">#ccec407a</color>
-    <color name="recover_screen_text">#f06292</color>
+    <color name="mask_layer">#37000000</color>
+    <color name="media_quality_selected">#cc4ddf61</color>
+    <color name="recover_screen_text">#cc85e199</color>
     <color name="seek_background">#809e9e9e</color>
     <color name="seek_ball">#ffffffff</color>
-    <color name="seek_progress">#cce91e63</color>
-    <color name="seek_secondary_progress">#88f48fb1</color>
+    <color name="seek_progress">#cc44de66</color>
+    <color name="seek_secondary_progress">#cc85e199</color>
     <color name="text_content">#ffffff</color>
     <color name="text_hint">#55ffffff</color>
-    <color name="video_skip">#e91e63</color>
+    <color name="video_skip">#cc4ddf61</color>
     <dimen name="aspect_btn_height">20dp</dimen>
     <dimen name="aspect_btn_size">30dp</dimen>
     <dimen name="control_bar_height">46dp</dimen>
@@ -54,6 +56,7 @@
     <item name="input_options_small_textsize" type="id">false</item>
     <item name="input_options_top_type" type="id">false</item>
     <string name="app_name">PlayerView</string>
+    <string name="mask_layer">#50000000</string>
     <string name="video_record">记忆上次播放到</string>
     <string name="video_skip">继续播放</string>
     <style name="AnimateDialog">

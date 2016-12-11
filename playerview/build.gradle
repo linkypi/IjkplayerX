@@ -35,4 +35,51 @@ dependencies {
     compile 'tv.danmaku.ijk.media:ijkplayer-armv7a:0.6.2'
     // Danmaku
     compile 'com.github.ctiao:DanmakuFlameMaster:0.5.5'
+
+//    compile 'com.github.christophesmet:android_maskable_layout:master'
 }
+
+//apply plugin: 'maven'
+//uploadArchives {
+//    repositories {
+//        mavenDeployer {
+//            configuration = configurations.deployerJars
+//            repository(url: "file://localhost/" //+ System.getenv("ANDROID_HOME")
+//                    + "E:/Software/apache-maven-3.3.9/repository/extras/android/m2repository/")
+//            pom.version = '1.0.0'
+//            pom.groupId = 'ijkplayer'
+//            pom.artifactId = 'ijkplayer'
+//        }
+//    }
+//}
+
+//task createPom {
+//    apply plugin: 'maven'
+//    description "Generates pom.xml"
+//    pom {
+//        project {
+//            groupId 'com.github.Rukey7'
+//            artifactId 'playerview'
+//            version '0.0.1-SNAPSHOT'
+//            packaging 'aar'
+//        }
+//    }.withXml {
+//        def dependenciesNode = asNode().appendNode('dependencies')
+//
+//        configurations.compile.allDependencies.each { dependency ->
+//            def dependencyNode = dependenciesNode.appendNode('dependency')
+//            dependencyNode.appendNode('groupId', dependency.group)
+//            dependencyNode.appendNode('artifactId', dependency.name)
+//            dependencyNode.appendNode('version', dependency.version)
+//        }
+//    }.writeTo("$buildDir/pom.xml")
+//}
+
+task makeJar(type: Copy){
+    delete 'build/libs/ijkplayer.jar'
+    from('build/intermediates/bundles/release/')
+    into('build/libs/')
+    include('classes.jar')
+    rename('classes.jar','ijkplayer.jar')
+}
+makeJar.dependsOn(build)

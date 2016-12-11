@@ -4,7 +4,7 @@
     <item android:id="@android:id/background">
         <shape>
             <solid android:color="@color/seek_background"/>
-            <size android:height="2dp"/>
+            <size android:height="1dp"/>
             <corners android:radius="1.5dp"/>
         </shape>
     </item>
@@ -14,7 +14,7 @@
             <shape>
                 <!--<solid android:color="@color/seek_secondary_progress"/>-->
                 <solid android:color="#88c18c"/>
-                <size android:height="2dp"/>
+                <size android:height="1dp"/>
                 <corners android:radius="1.5dp"/>
             </shape>
         </clip>
@@ -25,7 +25,7 @@
             <shape>
                 <solid android:color="#3cbe45"/>
                 <!--<solid android:color="@color/seek_progress"/>-->
-                <size android:height="2dp"/>
+                <size android:height="1dp"/>
                 <corners android:radius="1.5dp"/>
             </shape>
         </clip>

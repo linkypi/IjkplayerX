@@ -10,12 +10,14 @@ import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.graphics.Matrix;
 import android.graphics.PointF;
+import android.graphics.drawable.Drawable;
 import android.media.AudioManager;
 import android.net.Uri;
 import android.os.BatteryManager;
 import android.os.Build;
 import android.os.Handler;
 import android.os.Message;
+import android.provider.MediaStore;
 import android.provider.Settings;
 import android.support.annotation.IntDef;
 import android.support.v4.content.ContextCompat;
@@ -61,6 +63,7 @@ import com.dl7.player.widgets.ShareDialog;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -156,15 +159,44 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
     private AppCompatActivity mAttachActivity;
     // 分享
     private LinearLayout mLayoutShare;
+    private FrameLayout mFltMasker;
 
     private ImageView mIvCollect;
     private ImageView mIvShare;
+
+
+    public IjkPlayerView EnableShare(boolean enableShare) {
+        this.enableShare = enableShare;
+        return this;
+    }
+
+    private boolean enableShare;
+    private boolean showVideoMaskLayer;
+
+    /**
+     * 点击屏幕时是否显示遮罩层
+     * @param flag
+     */
+    public IjkPlayerView showVideoMaskLayer(boolean flag){
+        showVideoMaskLayer = flag;
+        return this;
+    }
 
     public void setOnCollectListener(OnCollectListener onCollectListener) {
         this.onCollectListener = onCollectListener;
     }
 
     private OnCollectListener onCollectListener;
+
+    public OnShareListener getOnShareListener() {
+        return onShareListener;
+    }
+
+    public void setOnShareListener(OnShareListener onShareListener) {
+        this.onShareListener = onShareListener;
+    }
+
+    private OnShareListener onShareListener;
     private boolean hasCollect;
     public void setHasCollect(boolean hasCollect) {
         this.hasCollect = hasCollect;
@@ -172,6 +204,9 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
 
     public interface OnCollectListener{
         void onCollect(boolean collected);
+    }
+    public interface OnShareListener{
+        void onShare(int type);
     }
 
     private Handler mHandler = new Handler() {
@@ -241,6 +276,9 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
     // 选项列表高度
     private int mAspectOptionsHeight;
 
+    private ImageView mIvShareQQ;
+    private ImageView mIvShareWeixin;
+    private ImageView mIvShareWeibo;
 
     public IjkPlayerView(Context context) {
         this(context, null);
@@ -261,6 +299,8 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
         mVideoView = (IjkVideoView) findViewById(R.id.video_view);
         mPlayerThumb = (ImageView) findViewById(R.id.iv_thumb);
         mLoadingView = (ProgressBar) findViewById(R.id.pb_loading);
+//        mLoadingView.setBackgroundColor(R.color.loading);
+
         mTvVolume = (TextView) findViewById(R.id.tv_volume);
         mTvBrightness = (TextView) findViewById(R.id.tv_brightness);
         mTvFastForward = (TextView) findViewById(R.id.tv_fast_forward);
@@ -285,6 +325,11 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
         mLayoutShare = (LinearLayout)findViewById(R.id.layout_share);
         mIvShare = (ImageView)findViewById(R.id.iv_share);
         mIvCollect = (ImageView)findViewById(R.id.iv_collect);
+        mIvShareQQ = (ImageView)findViewById(R.id.share_qq);
+        mIvShareWeibo = (ImageView)findViewById(R.id.share_sina);
+        mIvShareWeixin = (ImageView)findViewById(R.id.share_weixin);
+
+        mFltMasker =  (FrameLayout) findViewById(R.id.fl_masker);
         // 视频宽高比设置
         mTvSettings = (TextView) findViewById(R.id.tv_settings);
         mAspectRatioOptions = (RadioGroup) findViewById(R.id.aspect_ratio_group);
@@ -672,6 +717,10 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
         mFullscreenTopBar.setVisibility(View.GONE);
         mWindowTopBar.setVisibility(View.GONE);
         mLlBottomBar.setVisibility(View.GONE);
+        //遮罩层
+        Drawable background = mFltMasker.getBackground();
+        if(background!=null) background.setAlpha(0);
+
         _showAspectRatioOptions(false);
         if (!isTouchLock) {
             mIvPlayerLock.setVisibility(View.GONE);
@@ -696,7 +745,7 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
             mIvPlayCircle.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
         } else if (mIsForbidTouch) {
             mIvPlayerLock.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
-            mLayoutShare.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
+            mLayoutShare.setVisibility(isShowBar && enableShare ? View.VISIBLE : View.GONE);
         } else {
             mLlBottomBar.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
             if (!isShowBar) {
@@ -709,13 +758,20 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
                 mFullscreenTopBar.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
                 mWindowTopBar.setVisibility(View.GONE);
                 mIvPlayerLock.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
-                mLayoutShare.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
+                mLayoutShare.setVisibility(isShowBar && enableShare ? View.VISIBLE : View.GONE);
                 if (mIsEnableDanmaku) {
                     mDanmakuPlayerSeek.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
                 }
                 if (mIsNeedRecoverScreen) {
                     mTvRecoverScreen.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
                 }
+                //遮罩层
+                if(isShowBar && showVideoMaskLayer) { //mFlVideoBox
+                    String color = getResources().getString(R.string.mask_layer);
+                    mFltMasker.setBackgroundColor(Color.parseColor(color));
+                    //R.color.bar_mask_layer);//R.color.mask_layer); Color.parseColor("#50000000")
+                }
+                else  mFltMasker.getBackground().setAlpha(0);
             } else {
                 mWindowTopBar.setVisibility(isShowBar ? View.VISIBLE : View.GONE);
                 mFullscreenTopBar.setVisibility(View.GONE);
@@ -891,13 +947,32 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
         } else if (id == R.id.tv_settings) {
             _showAspectRatioOptions(true);
         }else if(id==R.id.iv_collect){
+            if(hasCollect)
+            {
+                hasCollect = false;
+                mIvCollect.setImageResource(R.mipmap.ic_uncollect);}
+            else{
+                hasCollect = true;
+                mIvCollect.setImageResource(R.mipmap.ic_hascollect);
+            }
           if(onCollectListener!=null)
           {
-              if(hasCollect) mIvShare.setImageResource(R.mipmap.ic_uncollect);
-              else  mIvShare.setImageResource(R.mipmap.ic_has_collect);
-              onCollectListener.onCollect(!hasCollect);}
+              onCollectListener.onCollect(!hasCollect);
+          }
         }else if(id == R.id.iv_share){
 
+        }else if(id==R.id.share_qq){
+            if(onShareListener!=null){
+                onShareListener.onShare(2);
+            }
+        }else if(id==R.id.share_weixin){
+            if(onShareListener!=null){
+                onShareListener.onShare(1);
+            }
+        }else if(id==R.id.share_sina){
+            if(onShareListener!=null){
+                onShareListener.onShare(3);
+            }
         }
     }
 
@@ -937,7 +1012,7 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
         mIvFullscreen.setSelected(isFullscreen);
         mHandler.post(mHideBarRunnable);
         mIvMediaQuality.setVisibility(isFullscreen ? VISIBLE : GONE);
-        mLlBottomBar.setBackgroundResource(isFullscreen ? R.color.bg_video_view : android.R.color.transparent);
+        mLlBottomBar.setBackgroundResource(isFullscreen ? R.color.bar_mask_layer : android.R.color.transparent);
         if (mIsShowQuality && !isFullscreen) {
             _toggleMediaQuality();
         }
@@ -2250,15 +2325,23 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
             if (mDialogClickListener != null) {
                 mDialogClickListener.onShare(bitmap, mVideoView.getUri());
             }
-            File file = new File(mSaveDir, System.currentTimeMillis() + ".jpg");
+            String fileName = System.currentTimeMillis() + ".jpg";
+            File file = new File(mSaveDir,fileName);
             try {
                 BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream(file));
                 bitmap.compress(Bitmap.CompressFormat.JPEG, 100, bos);
                 bos.flush();
                 bos.close();
-                Toast.makeText(mAttachActivity, "保存成功，路径为:" + file.getAbsolutePath(), Toast.LENGTH_SHORT).show();
+                // 其次把文件插入到系统图库
+                Context context = IjkPlayerView.this.getContext();
+                MediaStore.Images.Media.insertImage(context.getContentResolver(),file.getAbsolutePath(), fileName, null);
+
+                // 最后通知图库更新
+                Intent intent = new Intent(Intent.ACTION_MEDIA_SCANNER_SCAN_FILE, Uri.parse("file://" + mSaveDir));
+                context.sendBroadcast(intent);
+                Toast.makeText(mAttachActivity, "保存成功" ,Toast.LENGTH_SHORT).show();
             } catch (IOException e) {
-                Toast.makeText(mAttachActivity, "保存本地失败", Toast.LENGTH_SHORT).show();
+                Toast.makeText(mAttachActivity, "保存失败", Toast.LENGTH_SHORT).show();
             }
 
         }

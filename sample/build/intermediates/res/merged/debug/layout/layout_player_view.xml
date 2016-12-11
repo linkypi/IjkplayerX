@@ -11,6 +11,13 @@
         android:id="@+id/video_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
+    <FrameLayout
+        android:id="@+id/fl_masker"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@null"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
     <ImageView
         android:id="@+id/iv_thumb"
@@ -65,8 +72,56 @@
         android:layout_gravity="center"
         android:layout_width="56dp"
         android:layout_height="56dp"/>
+    <LinearLayout
+        android:id="@+id/layout_share"
+        android:layout_marginTop="60dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:background="@null"
+        android:weightSum="1"
+        android:visibility="visible"
+        android:layout_height="50dp">
+        <TextView
+            android:textColor="#ffffff"
+            android:text="分享视频"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <LinearLayout
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/share_weixin"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:background="@mipmap/ic_weixin"
+                android:layout_width="30dp"
+                android:layout_height="30dp" />
+            <ImageView
+                android:id="@+id/share_qq"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:background="@mipmap/ic_qq"
+                android:layout_width="30dp"
+                android:layout_height="30dp" />
+            <ImageView
+                android:id="@+id/share_sina"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:background="@mipmap/ic_sina"
+                android:layout_width="30dp"
+                android:layout_height="30dp" />
+        </LinearLayout>
+    </LinearLayout>
 
     <include layout="@layout/layout_media_quality"/>
 
     <include layout="@layout/layout_send_danmaku"/>
+    </FrameLayout>
 </FrameLayout>

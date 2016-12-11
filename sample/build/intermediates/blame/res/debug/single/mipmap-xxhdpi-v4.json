@@ -1,126 +1,154 @@
 [
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_play_circle_2.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_play_circle_2.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_smooth.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_media_quality_smooth.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_volume.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_volume.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_bd.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_media_quality_bd.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_share.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_share.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_play_circle.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_play_circle.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_danmaku_open.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_danmaku_open.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_hascollect.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_hascollect.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_fast_forward.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_fast_forward.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_play.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_play.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_back.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_back.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_player_unlock.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_player_unlock.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_send_danmaku.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_send_danmaku.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_fullscreen.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_fullscreen.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\photo.jpg",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\src\\main\\res\\mipmap-xxhdpi\\photo.jpg"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_share.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_share.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_danmaku_closed.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_danmaku_closed.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_weixin.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_weixin.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_video_screenshot.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_video_screenshot.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_fast_forward.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_fast_forward.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_return_back.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_return_back.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_volume.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_volume.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_cancel_skip.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_cancel_skip.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_danmaku_closed.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_danmaku_closed.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_fullscreen_exit.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_fullscreen_exit.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_qq.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_qq.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_super.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_media_quality_super.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_video_play.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_video_play.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_player_unlock.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_player_unlock.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_medium.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_media_quality_medium.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_player_lock.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_player_lock.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_cancel_danmaku.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_cancel_danmaku.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_medium.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_media_quality_medium.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_video_screenshot.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_video_screenshot.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_video_play.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_video_play.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_fast_rewind.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_fast_rewind.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_volume_on.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_volume_on.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_super.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_media_quality_super.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_high.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_media_quality_high.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_video_pause.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_video_pause.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_cancel_danmaku.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_cancel_danmaku.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_fullscreen_exit.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_fullscreen_exit.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_has_collect.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_has_collect.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\photo.jpg",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\src\\main\\res\\mipmap-xxhdpi\\photo.jpg"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_volume_off.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_volume_off.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_player_lock.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_player_lock.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_fast_rewind.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_fast_rewind.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_volume_on.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_volume_on.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_play_circle.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_play_circle.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_high.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_media_quality_high.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_video_pause.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_video_pause.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_uncollect.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_uncollect.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_uncollect.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_uncollect.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_play_circle_2.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_play_circle_2.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_bd.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_media_quality_bd.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_brightness.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_brightness.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_fullscreen.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_fullscreen.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_has_collect.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_has_collect.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_smooth.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_media_quality_smooth.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_volume_off.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_volume_off.png"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_brightness.png",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_brightness.png"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_sina.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_sina.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_unfull.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_unfull.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_full.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_full.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_cancel_skip.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_cancel_skip.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_return_back.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_return_back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_back.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_danmaku_open.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_danmaku_open.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_send_danmaku.png",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\mipmap-xxhdpi-v4\\ic_send_danmaku.png"
     }
 ]

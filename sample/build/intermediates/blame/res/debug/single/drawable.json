@@ -1,266 +1,266 @@
 [
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_ar_16_9.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_ar_16_9.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_play.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_play.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\layer_battery_progress.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\layer_battery_progress.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\v2_sel_btn_send.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\src\\main\\res\\drawable\\v2_sel_btn_send.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_video_bg.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\shape_video_bg.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_danmaku_input_options_medium_textsize.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_danmaku_input_options_medium_textsize.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_ar_adjust_video.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_ar_adjust_video.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_share_left.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_share_left.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_seek_ball.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\shape_seek_ball.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_ar_adjust_screen.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_ar_adjust_screen.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_ar_adjust_video.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_ar_adjust_video.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_danmaku_input_options_rl_type.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_danmaku_input_options_rl_type.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\layer_battery_progress.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\layer_battery_progress.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\layer_seek_progress.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\layer_seek_progress.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_share_right.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_share_right.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_danmaku_input_options_medium_textsize.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_danmaku_input_options_medium_textsize.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_danmaku_input_options_small_textsize.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_danmaku_input_options_small_textsize.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_item_background.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_item_background.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_danmaku_input_options_rl_type.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_danmaku_input_options_rl_type.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_danmaku_input_options_color.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_danmaku_input_options_color.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_selected_border.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\shape_selected_border.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_player_lock.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_player_lock.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_send_danmaku_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\shape_send_danmaku_bg.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_ar_adjust_screen.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_ar_adjust_screen.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\v2_sel_btn_send_text.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\src\\main\\res\\drawable\\v2_sel_btn_send_text.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_item_background.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_item_background.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_ar_4_3.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_ar_4_3.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\transition_item_background.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\transition_item_background.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_danmaku_input_options_bottom_type.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_danmaku_input_options_bottom_type.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_play.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_play.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_vector_test.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_danmaku_input_options_top_type.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_danmaku_input_options_top_type.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_media_quality_text.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_media_quality_text.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_danmaku_input_options_bottom_type.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_danmaku_input_options_bottom_type.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_media_quality_border.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_media_quality_border.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\v2_shape_comment_border.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\src\\main\\res\\drawable\\v2_shape_comment_border.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_ar_4_3.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_ar_4_3.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_share_right.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_share_right.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_edit_bg.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\src\\main\\res\\drawable\\shape_edit_bg.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\layer_seek_progress.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\layer_seek_progress.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_ar_16_9.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_ar_16_9.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\v2_shape_comment_border.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\src\\main\\res\\drawable\\v2_shape_comment_border.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\v2_sel_btn_send.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\src\\main\\res\\drawable\\v2_sel_btn_send.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_share_left.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_share_left.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_seek_ball.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\shape_seek_ball.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_border.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\shape_dialog_border.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_danmaku_input_options_color.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_danmaku_input_options_color.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_media_quality_text.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_media_quality_text.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_player_lock_bg.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\shape_player_lock_bg.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_edit_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\src\\main\\res\\drawable\\shape_edit_bg.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\v2_sel_btn_send_text.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\src\\main\\res\\drawable\\v2_sel_btn_send_text.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_danmaku_input_options_top_type.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_danmaku_input_options_top_type.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_danmaku_input_options_small_textsize.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_danmaku_input_options_small_textsize.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_danmaku_control.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_danmaku_control.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\transition_item_background.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\transition_item_background.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_video_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\shape_video_bg.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_player_lock.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_player_lock.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_danmaku_control.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_danmaku_control.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_border.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\shape_dialog_border.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_fullscreen.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_fullscreen.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_media_quality_border.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_media_quality_border.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_send_danmaku_bg.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\shape_send_danmaku_bg.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_player_lock_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\shape_player_lock_bg.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_selected_border.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\shape_selected_border.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\sel_btn_fullscreen.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.github.Rukey7\\playerview\\unspecified\\res\\drawable\\sel_btn_fullscreen.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "D:\\AndroidWorkSpace\\IjkplayerX\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\AndroidStudioProjects\\IjkPlayerView\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_material.xml"
     }
 ]

@@ -2,12 +2,13 @@
 <merge xmlns:android="http://schemas.android.com/apk/res/android"
        android:layout_width="match_parent"
        android:layout_height="wrap_content">
-
+    <!--android:background="@color/bg_video_view"-->
     <LinearLayout
         android:id="@+id/fullscreen_top_bar"
+        android:background="@color/bar_mask_layer"
         android:layout_width="match_parent"
         android:layout_height="@dimen/control_bar_height"
-        android:background="@color/bg_video_view"
+
         android:gravity="center_vertical"
         android:orientation="horizontal"
         android:visibility="gone">
